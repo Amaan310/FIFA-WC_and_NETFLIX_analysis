@@ -1,7 +1,8 @@
 # FIFA-WC_and_NETFLIX_analysis
 
 📊 **Data Analysis Portfolio Project**  
-Author: **Amaan** (`Amaan310`)
+Author: **Amaan Haque** 
+
 ---
 
 ## 🔍 Project overview
@@ -14,6 +15,7 @@ This repository contains two exploratory data analysis (EDA) projects showcasing
   Analysis of Netflix titles focusing on content growth, genre distribution, regional availability, and release trends.
 
 These notebooks are designed as **portfolio projects** to demonstrate practical data analytics skills.
+
 ---
 
 ## 🚀 Key skills demonstrated
@@ -21,23 +23,26 @@ These notebooks are designed as **portfolio projects** to demonstrate practical 
 - Exploratory Data Analysis (EDA)  
 - Data Visualization & Storytelling  
 - Python Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`
+  
 ---
 
 ## ▶ How to view
 - Open notebooks directly on GitHub  
 - Or run in **Google Colab** / Jupyter Notebook for interactive exploration
+  
 ---
 
 ## 📁 Repository structure
 ├── FIFA_WC_Analysis.ipynb
 ├── NETFLIX_ANALYSIS.ipynb
 └── README.md
+
 ---
 
-## 📬 Contact
-**Amaan**  
+## 📬 Contact 
 GitHub: https://github.com/Amaan310  
 LinkedIn: www.linkedin.com/in/amaanhaque3
+
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
