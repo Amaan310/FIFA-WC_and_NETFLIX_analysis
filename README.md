@@ -1,3 +1,43 @@
-# Unified_Mentor_DATA_ANALYST_Internship_PROJECTS
-Hello everyone, This repository is made for saving the projects that I've performed during my #Unified Mentor Data Analyst Internship.
-I hope that from my work, you can have a great help in whatever you are doing...SEE YAA!!
+# FIFA-WC_and_NETFLIX_analysis
+
+📊 **Data Analysis Portfolio Project**  
+Author: **Amaan** (`Amaan310`)
+---
+
+## 🔍 Project overview
+This repository contains two exploratory data analysis (EDA) projects showcasing data cleaning, visualization, and insight generation using Python.
+
+- **FIFA_WC_Analysis.ipynb**  
+  Analysis of FIFA World Cup data to identify historical trends, team performances, goal statistics, and tournament insights.
+
+- **NETFLIX_ANALYSIS.ipynb**  
+  Analysis of Netflix titles focusing on content growth, genre distribution, regional availability, and release trends.
+
+These notebooks are designed as **portfolio projects** to demonstrate practical data analytics skills.
+---
+
+## 🚀 Key skills demonstrated
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Storytelling  
+- Python Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`
+---
+
+## ▶ How to view
+- Open notebooks directly on GitHub  
+- Or run in **Google Colab** / Jupyter Notebook for interactive exploration
+---
+
+## 📁 Repository structure
+├── FIFA_WC_Analysis.ipynb
+├── NETFLIX_ANALYSIS.ipynb
+└── README.md
+---
+
+## 📬 Contact
+**Amaan**  
+GitHub: https://github.com/Amaan310  
+LinkedIn: www.linkedin.com/in/amaanhaque3
+---
+
+⭐ If you find this project useful, consider starring the repository!
