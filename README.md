@@ -1,7 +1,4 @@
-# FIFA-WC_and_NETFLIX_analysis
-
-📊 **Data Analysis Portfolio Project**  
-Author: **Amaan Haque** 
+# FIFA-WC_and_NETFLIX_analysis 
 
 ---
 
