@@ -1,5 +1,4 @@
 # FIFA-WC_and_NETFLIX_analysis 
-
 ---
 
 ## 🔍 Project overview
