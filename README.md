@@ -1,5 +1,4 @@
 # FIFA-WC_and_NETFLIX_analysis 
----
 
 ## 🔍 Project overview
 This repository contains two exploratory data analysis (EDA) projects showcasing data cleaning, visualization, and insight generation using Python.
